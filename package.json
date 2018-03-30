@@ -1,0 +1,23 @@
+{
+  "name": "semantic-ui-range",
+  "version": "1.0.0",
+  "description": "Fork of https://github.com/tyleryasaka/semantic-ui-range",
+  "main": "range.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antekirta/semantic-ui-range.git"
+  },
+  "keywords": [
+    "range",
+    "semantic"
+  ],
+  "author": "Antekirta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antekirta/semantic-ui-range/issues"
+  },
+  "homepage": "https://github.com/Antekirta/semantic-ui-range#readme"
+}
